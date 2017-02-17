@@ -21,7 +21,7 @@
         "files": ["QuickBooks.php"]
      },
 
-     "extras": {
+     "extra": {
      	"map": [
 	   ["QuickBooks.php", "lib/quickbooks/QuickBooks.php"],
 	   ["QuickBooks",     "lib/quickbooks/QuickBooks"],
